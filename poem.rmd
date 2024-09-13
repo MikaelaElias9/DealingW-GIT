@@ -1,7 +1,7 @@
 ---
 title: "git_00"
-author: "Your Name here"
-date: "Year 2020"
+author: "Mikaela Elias"
+date: "Fall, Year 2024"
 output: html_document
 ---
 
@@ -15,6 +15,14 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+
+In a Wonderland they lie,          
+Dreaming as the days go by,          
+Dreaming as the summers die:           
+Ever drifting down the stream —          
+Lingering in the golden gleam —          
+Life, what is it but a dream?          
+
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
